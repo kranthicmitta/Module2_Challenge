@@ -1,0 +1,16 @@
+    1  pwd
+    2  cd Desktop/github_stuff/Module2_Challenge/
+    3  ls
+    4  git status
+    5  git commit
+    6  git push
+    7  git commit -m"Add code"
+    8  git push
+    9  git push https://github.com/kranthicmitta/Module2_Challenge
+   10  git push git@github.com:kranthicmitta/Module2_Challenge.git
+   11  git push git@github.com:kranthicmitta/Module2_Challenge.git
+   12  git remote add origin git@github.com:kranthicmitta/Module2_Challenge.git
+   13  git push
+   14  git push
+   15  python app.py
+   16  history 50 > terminal_history.txt
