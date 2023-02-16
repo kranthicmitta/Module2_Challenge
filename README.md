@@ -1,12 +1,12 @@
 # Module2_Challenge
 Module2 Challenge
 
-#QUALIFYING LOANS CSV
+## QUALIFYING LOANS CSV
 
 The purpose of the project is for the software to prompt the user to save the file to a csv.
 
 
-##Technologies
+### Technologies
 
 Programming Language is Python
 Version Control system is Github
@@ -21,15 +21,23 @@ pathlib
 csvsqlite3
 
 
-## Installation Guide
+### Installation Guide
 
-NA
+Install below libraries
+fire
+sys
+questionary
+pathlib
+csvsqlite3
 
-## Usage
-
-NA
 
 
+### Usage
+
+To cater to business requirement to save qualifying loans as csv file.
+
+![Qualifying_Loans1](Qualifying_Loans1.PNG)
+![Qualifying_Loans2](Qualifying_Loans2.PNG)
 
 
 ## Contributors
